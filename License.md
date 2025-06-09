@@ -6,6 +6,6 @@ Personal Use: Permission is granted to individuals to use this software for pers
 
 No Warranty: This software is provided "as-is," without any express or implied warranty. In no event shall the author be held liable for any damages arising from the use of this software.
 
-Credits: Credit is given to Vojislav Radonjic as this was a final assignment for Comp 3004.
+Credits: Credit is given to Vojislav Radonjic as this was an assignment for Comp 3004.
 
 Contact: For permissions or inquiries, please contact Ehan Hassan at ehan20204@gmail.com
